@@ -67,7 +67,7 @@
                                 </constraints>
                                 <state key="normal" title="ログイン" backgroundImage="btn"/>
                                 <connections>
-                                    <action selector="handleCreateAccounyButton:" destination="iBZ-r6-HUO" eventType="touchUpInside" id="XbI-af-9dH"/>
+                                    <action selector="handleLoginButton:" destination="iBZ-r6-HUO" eventType="touchUpInside" id="hRA-8b-JgH"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9UU-DD-oSE">
